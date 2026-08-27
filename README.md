@@ -17,6 +17,3 @@ play_liars_dice(num_players = 4, num_dice = 5)
 Bids are entered as `quantity value` — e.g. `3 4` claims there are at least three 4s
 on the table.
 
-## License
-
-MIT
